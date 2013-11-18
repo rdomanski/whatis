@@ -53,5 +53,5 @@ hostnames: [u'93.184.216.119']title: u'404 - Not Found'ip: u'93.184.216.119'isp:
 
 5. Credits
 ==========
-I would like to thank Gufo (@_0wl) for valuable discussions we had about the project. 
+I would like to thank Daniele Bonomi (@_0wl) for valuable discussions we had about the project. 
 
